@@ -29,4 +29,11 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 - Redirect carbon tax revenues fron high-income nations towards renewable energy, clean technology, and infrastructure in low-income countries; ensuring climate fairness while supporting sustainable growth.
 - Invest in regional green infrastructure to balance economic growth with emissions reduction.
 - Incentivize the further development of cleaner, more energy-efficient technologies by the higher-income countries for eventual adoption by lower-income countries.
+
+**Europe vs. Africa**
+- Europe has consistently emitted far more than Africa over the past century, with gap between the two continents reaching as high as seven-fold in the 21st century.
+- This trend highlights a historical imbalance in responsibility as Europe has contributed the bulk of emissions historically, while Africa faces similar climate risks despite contributing far less.
+- Europe peaked in the 80s, but due to two oil crises happening within 10 years, governments decided to prioritze energy efficiency in order to decrease dependency.
+- Top European emitters each release hundreds on millions of tons annually, while the top African emitters remain below 200 million, with Egypt being the only exception.
+- Russia alone emits more than all five of Africa's top emitters combined, highlighting the scale of disparity.
  
