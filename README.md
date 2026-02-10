@@ -30,7 +30,7 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 - Invest in regional green infrastructure to balance economic growth with emissions reduction.
 - Incentivize the further development of cleaner, more energy-efficient technologies by the higher-income countries for eventual adoption by lower-income countries.
 
-**Europe vs. Africa**
+## Europe vs. Africa
 - Europe has consistently emitted far more than Africa over the past century, with gap between the two continents reaching as high as seven-fold in the 21st century.
 - This trend highlights a historical imbalance in responsibility as Europe has contributed the bulk of emissions historically, while Africa faces similar climate risks despite contributing far less.
 - Europe peaked in the 80s, but due to two oil crises happening within 10 years, governments decided to prioritze energy efficiency in order to decrease dependency.
