@@ -7,10 +7,10 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 - All parties set their own goals to limit the global rise in surface temperature to less than 2°C.
 
 ## Agenda
--Context
--Executive Summary
--Findings
--Recommendations
+-**Context**
+-**Executive Summary**
+-**Findings**
+-**Recommendations**
 
 ## Context
 - **The Problem**: Global carbon emissions have risen dramatically due to industrialization, transportaion, and energy production.
