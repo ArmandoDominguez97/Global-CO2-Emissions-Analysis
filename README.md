@@ -30,14 +30,14 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 - Invest in regional green infrastructure to balance economic growth with emissions reduction.
 - Incentivize the further development of cleaner, more energy-efficient technologies by the higher-income countries for eventual adoption by lower-income countries.
 
-## Europe vs. Africa
+## Europe and Africa
 - Europe has consistently emitted far more than Africa over the past century, with gap between the two continents reaching as high as seven-fold in the 21st century. (1.03 tons/person vs. 7.12 tons/person)
 - This trend highlights a historical imbalance in responsibility as Europe has contributed the bulk of emissions historically, while Africa faces similar climate risks despite contributing far less.
 - Europe peaked in the 80s, but due to two oil crises happening within 10 years, governments decided to prioritze energy efficiency in order to decrease dependency.
 - Top European emitters each release hundreds on millions of tons annually, while the top African emitters remain below 200 million, with Egypt being the only exception.
 - Russia alone emits more than all five of Africa's top emitters combined, highlighting the scale of disparity.
 
-## Oceania vs. South America
+## Oceania and South America
 - During the first half of the 20th century, both South America and Oceania had relatively low carbon emissions.
 - While both continents would see a growth in carbon emissions during the second half of the century, South America's growth would significantly outpace that of Oceania. This is due to South America experiencing a more dramatic industrial shift along with more population and economic growth than Oceania during that span.
 - South America's emissions peaked in 2014, and has been notably declining ever since, while Oceania's emissions continue to gradually increase. Despite the COVID-19 pandemic causing a notable drop in emissions worldwide in 2020, Oceania still saw an increase in emissions as a result of the Australian bushfire season which was one of the worst on record.
@@ -46,3 +46,10 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 - Comparing the emissions of the five most populous European and African nations show no clear correlation between population and emissions.
 - Russia accounts for 14% of the combined population for the ten nations, yet is responsitble for over 45% of the total emissions. In fact, 4 of the 5 most populous European countries had higher emissions per capita than the global average in 2021, with France being the only exception.
 - Meanwhile, all five of Africa's most populous countries had lower than global average per capita emissions in 2021.
+
+## Emissions by National Income Level 
+- As one can expect, wealthier countries account for a significantly higher share of the global CO2 emissions than lower income nations. High-income countries were the larget carbon emitters until 2010, when they were overtaken by the upper-middle-income countries.
+- This recent shift has come as a result of three major developments:
+  1. High-income countries continue to produce the highest emissions per capita, but population growth in upper-middle-income countries has significantly outpaced that of their high-income counterparts. Consequently, larger populations in these countries contribute to rising national CO2 totals.
+  2. During the latter half of the 20th century, many businesses in high-income countries offshored manufacturing and production across numerous industries to upper-middle-income countries. This effectively shifted a significant share of carbon emissions abroad. As a result, high-income countries remain largely responsible for global CO2 emissions, even as fewer emissions occur within their own borders.
+  3. High-income countries have invested more heavily in cleaner energy technologies, improving energy efficiency and gradually reducing domestic CO2 emissions over time. 
