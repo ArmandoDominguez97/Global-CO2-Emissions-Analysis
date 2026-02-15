@@ -56,4 +56,16 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 - Population growth is the dominant driver of emissions in all income groups except upper-middle income. For low-income countries, population growth is practically the only major factor behind their rise in emissions over time.
 - In 2021, low-income countries account for less than 4% of global emissions.
 
+**Recap**
+- High-income countries have historically accounted for a majority of worldwide CO2 emissions, but have been overtaken by the upper-middle income countries in this regard over the past decade.
+- Carbon emissions across continents are highly unequal, with Europe and South America contributing far more than Africa and Oceania. These imbalances highlight the urgency of addressing overall emissions and the responsibility of the regions who emit the most CO2. The places least responsible for rising CO2 emissions often face the greatest climate risks.
+- Low-income countries account for less than 4% of global emissions, with their modest increases driven mainly by population growth and expanding access to basic energy and not heavy industry.
+
+**Policy Recommendations**
+1. Adopt a global carbon benchmark of 4.5 tons per capita. Countries emitting above the benchmark would be subject to a scaled fine.
+2. Incentivize innovation in clean energy among high-income nations and encourage adoption of the resulting technologies by the lower income nations once it becomes economically viable to do so.
+3. Redirect carbon tax revenues from high-income nations toward renewable energy, clean technology, and infrastructure in low-income countries. This ensures climate fairness while supporting sustainable growth.
+4. Invest in green infrastructure and sustainable jobs such as climate resilient agriculture, reforestation, and green construction to balance economic growth with emissions reduction.
+
+**Resources**
 
