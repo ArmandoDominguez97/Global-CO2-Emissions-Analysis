@@ -3,6 +3,7 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 
 ## Client
 **The United Nations Framework Convention on Climate Change (UNFCCC)**
+![UNFCCC Logo](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/main/UNFCCC_logo_with_text.svg.png?raw=true)
 - In 2015, 196 nations negotiated the Paris Climate Accords
 - All parties set their own goals to limit the global rise in surface temperature to less than 2°C.
 
