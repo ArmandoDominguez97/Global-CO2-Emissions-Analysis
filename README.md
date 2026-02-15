@@ -50,6 +50,10 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 ## Emissions by National Income Level 
 - As one can expect, wealthier countries account for a significantly higher share of the global CO2 emissions than lower income nations. High-income countries were the larget carbon emitters until 2010, when they were overtaken by the upper-middle-income countries.
 - This recent shift has come as a result of three major developments:
-  1. High-income countries continue to produce the highest emissions per capita, but population growth in upper-middle-income countries has significantly outpaced that of their high-income counterparts. Consequently, larger populations in these countries contribute to rising national CO2 totals.
-  2. During the latter half of the 20th century, many businesses in high-income countries offshored manufacturing and production across numerous industries to upper-middle-income countries. This effectively shifted a significant share of carbon emissions abroad. As a result, high-income countries remain largely responsible for global CO2 emissions, even as fewer emissions occur within their own borders.
-  3. High-income countries have invested more heavily in cleaner energy technologies, improving energy efficiency and gradually reducing domestic CO2 emissions over time. 
+  1. During the latter half of the 20th century, many businesses in high-income countries offshored manufacturing and production across numerous industries to upper-middle-income countries. This effectively shifted a significant share of carbon emissions abroad. As a result, high-income countries remain largely responsible for global CO2 emissions, even as fewer emissions occur within their own borders.
+  2. High-income countries continue to produce the highest emissions per capita, but population growth in upper-middle-income countries has significantly outpaced that of their high-income counterparts. Consequently, larger populations in these countries contribute to rising national CO2 totals.
+  3. High-income countries have invested more heavily in cleaner energy technologies, improving energy efficiency and gradually reducing domestic CO2 emissions over time.
+- Population growth is the dominant driver of emissions in all income groups except upper-middle income. For low-income countries, population growth is practically the only major factor behind their rise in emissions over time.
+- In 2021, low-income countries account for less than 4% of global emissions.
+
+
