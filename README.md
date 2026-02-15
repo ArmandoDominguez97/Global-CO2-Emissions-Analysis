@@ -39,7 +39,7 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 - Europe peaked in the 80s, but due to two oil crises happening within 10 years, governments decided to prioritze energy efficiency in order to decrease dependency.
 - Top European emitters each release hundreds on millions of tons annually, while the top African emitters remain below 200 million, with Egypt being the only exception.
 - Russia alone emits more than all five of Africa's top emitters combined, highlighting the scale of disparity.
-
+![European and African Emissions](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/4930d99de29d1231d3ecdf238f064b1e1d0111c4/Europe%20and%20Africa%20%20Charts.png)
 **Oceania and South America**
 - During the first half of the 20th century, both South America and Oceania had relatively low carbon emissions.
 - While both continents would see a growth in carbon emissions during the second half of the century, South America's growth would significantly outpace that of Oceania. This is due to South America experiencing a more dramatic industrial shift along with more population and economic growth than Oceania during that span.
