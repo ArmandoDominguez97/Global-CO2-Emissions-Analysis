@@ -6,6 +6,7 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 ![UNFCCC Logo](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/main/UNFCCC_logo_with_text.svg.png?raw=true)
 - In 2015, 196 nations negotiated the Paris Climate Accords
 - All parties set their own goals to limit the global rise in surface temperature to less than 2°C.
+![Paris Climate Goals Map](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/05b884d46c7ab60d0d666c2d1f0298160029e907/Probability_that_countries_achieve_their_Paris_Agreement_Goals_according_to_their_nationally_determined_contributions_(NDCs).webp.png)
 
 ## Agenda
 - Context
