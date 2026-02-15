@@ -68,13 +68,13 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 4. Invest in green infrastructure and sustainable jobs such as climate resilient agriculture, reforestation, and green construction to balance economic growth with emissions reduction.
 
 **Resources**
-Channel 4 News. (2021, September 15).  Australian wildfires released more CO2 than annual emissions of Germany, say scientists [Video]. Youtube. https://www.youtube.com/watch?v=dLPruiJx6Cs&t=1s
+-Channel 4 News. (2021, September 15).  Australian wildfires released more CO2 than annual emissions of Germany, say scientists [Video]. Youtube. https://www.youtube.com/watch?v=dLPruiJx6Cs&t=1s
 
-Hannah Ritchie (2023) - “Global inequalities in CO2 emissions” Published online at OurWorldinData.org. Retrieved from: 'https://archive.ourworldindata.org/20260119-070102/inequality-co2.html' [Online Resource] (archived on January 19, 2026).
+-Hannah Ritchie (2023) - “Global inequalities in CO2 emissions” Published online at OurWorldinData.org. Retrieved from: 'https://archive.ourworldindata.org/20260119-070102/inequality-co2.html' [Online Resource] (archived on January 19, 2026).
 
-Huaxi Peng, Siyi Kan , Jing Meng, Shuping Li, Can Cui, Chang Tan, Zhenyu Wang, Quan Wen, Dabo Guan. (2024). Emissions accounting and drivers in South American countries. ScienceDirect.
+-Huaxi Peng, Siyi Kan , Jing Meng, Shuping Li, Can Cui, Chang Tan, Zhenyu Wang, Quan Wen, Dabo Guan. (2024). Emissions accounting and drivers in South American countries. ScienceDirect.
 https://www.sciencedirect.com/science/article/abs/pii/S0306261923018925
 
-Tamburino, Lucia, et al. “An Analysis of Three Decades of Increasing Carbon Emissions: The Weight of the P Factor.” MDPI, Multidisciplinary Digital Publishing Institute, 10 Feb. 2023, www.mdpi.com/2071-1050/15/4/3245?utm_source.
+-Tamburino, Lucia, et al. “An Analysis of Three Decades of Increasing Carbon Emissions: The Weight of the P Factor.” MDPI, Multidisciplinary Digital Publishing Institute, 10 Feb. 2023, www.mdpi.com/2071-1050/15/4/3245?utm_source.
 
-Three Decades of Increasing Carbon Emissions: The Weight of the P Factor.” MDPI, Multidisciplinary Digital Publishing Institute, 10 Feb. 2023, www.mdpi.com/2071-1050/15/4/3245?utm_source.
+-Three Decades of Increasing Carbon Emissions: The Weight of the P Factor.” MDPI, Multidisciplinary Digital Publishing Institute, 10 Feb. 2023, www.mdpi.com/2071-1050/15/4/3245?utm_source.
