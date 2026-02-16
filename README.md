@@ -53,6 +53,7 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 ![National Emissions Graph](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/71e259102b7927a7222fd1c264015acb741b9e9e/European_and_African_nations.png)
 ## Emissions by National Income Level 
 - As one can expect, wealthier countries account for a significantly higher share of the global CO2 emissions than lower income nations. High-income countries were the larget carbon emitters until 2010, when they were overtaken by the upper-middle-income countries.
+![Emissions by National Income Level](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/7b488d57eec79f56b92f72099cc19f261e3a7fce/National_income_level.png)
 - This recent shift has come as a result of three major developments:
   1. During the latter half of the 20th century, many businesses in high-income countries offshored manufacturing and production across numerous industries to upper-middle-income countries. This effectively shifted a significant share of carbon emissions abroad. As a result, high-income countries remain largely responsible for global CO2 emissions, even as fewer emissions occur within their own borders.
   2. High-income countries continue to produce the highest emissions per capita, but population growth in upper-middle-income countries has significantly outpaced that of their high-income counterparts. Consequently, larger populations in these countries contribute to rising national CO2 totals.
