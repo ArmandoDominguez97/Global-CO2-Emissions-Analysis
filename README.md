@@ -47,6 +47,7 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 ![Oceania and South America Emissions](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/e2720c6b2970e2240d2db0de365bf6b5a6e74e9d/Oceania_%26_South_America.png)
 ## Population and Per Capita
 - Comparing the emissions of the five most populous European and African nations show no clear correlation between population and emissions.
+![Population and Emissions Data](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/dce9227fbba00dd266a06084e2050c19aed3bac7/Emissions_and_population.png)
 - Russia accounts for 14% of the combined population for the ten nations, yet is responsitble for over 45% of the total emissions. In fact, 4 of the 5 most populous European countries had higher emissions per capita than the global average in 2021, with France being the only exception.
 - Meanwhile, all five of Africa's most populous countries had lower than global average per capita emissions in 2021.
 
