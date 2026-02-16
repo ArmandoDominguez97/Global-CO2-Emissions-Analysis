@@ -44,7 +44,7 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 - During the first half of the 20th century, both South America and Oceania had relatively low carbon emissions.
 - While both continents would see a growth in carbon emissions during the second half of the century, South America's growth would significantly outpace that of Oceania. This is due to South America experiencing a more dramatic industrial shift along with more population and economic growth than Oceania during that span.
 - South America's emissions peaked in 2014, and has been notably declining ever since, while Oceania's emissions continue to gradually increase. Despite the COVID-19 pandemic causing a notable drop in emissions worldwide in 2020, Oceania still saw an increase in emissions as a result of the Australian bushfire season which was one of the worst on record.
-
+![Oceania and South America Emissions](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/e2720c6b2970e2240d2db0de365bf6b5a6e74e9d/Oceania_%26_South_America.png)
 ## Population and Per Capita
 - Comparing the emissions of the five most populous European and African nations show no clear correlation between population and emissions.
 - Russia accounts for 14% of the combined population for the ten nations, yet is responsitble for over 45% of the total emissions. In fact, 4 of the 5 most populous European countries had higher emissions per capita than the global average in 2021, with France being the only exception.
