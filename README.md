@@ -6,7 +6,7 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 ![UNFCCC Logo](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/main/UNFCCC_logo_with_text.svg.png?raw=true)
 - In 2015, 196 nations negotiated the Paris Climate Accords
 - All parties set their own goals to limit the global rise in surface temperature to less than 2°C.
-![Paris Climate Goals Map](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/05b884d46c7ab60d0d666c2d1f0298160029e907/Probability_that_countries_achieve_their_Paris_Agreement_Goals_according_to_their_nationally_determined_contributions_(NDCs).webp.png)
+![Paris Climate Goals Map](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/05b884d46c7ab60d0d666c2d1f0298160029e907/Probability_that_countries_achieve_their_Paris_Agreement_Goals_according_to_their_nationally_determined_contributions_(NDCs).webp.png) [^1]: Image courtesy of Liu, Peiran & Raftery, 2021
 
 ## Agenda
 - Context
@@ -80,6 +80,8 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 
 -Huaxi Peng, Siyi Kan , Jing Meng, Shuping Li, Can Cui, Chang Tan, Zhenyu Wang, Quan Wen, Dabo Guan. (2024). Emissions accounting and drivers in South American countries. ScienceDirect.
 https://www.sciencedirect.com/science/article/abs/pii/S0306261923018925
+
+-Liu, Peiran & Raftery, Adrian. (2021). Country-based rate of emissions reductions should increase by 80% beyond nationally determined contributions to meet the 2 °C target. Communications Earth & Environment. 2. 10.1038/s43247-021-00097-8. 
 
 -Tamburino, Lucia, et al. “An Analysis of Three Decades of Increasing Carbon Emissions: The Weight of the P Factor.” MDPI, Multidisciplinary Digital Publishing Institute, 10 Feb. 2023, www.mdpi.com/2071-1050/15/4/3245?utm_source.
 
