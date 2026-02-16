@@ -59,7 +59,8 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
   2. High-income countries continue to produce the highest emissions per capita, but population growth in upper-middle-income countries has significantly outpaced that of their high-income counterparts. Consequently, larger populations in these countries contribute to rising national CO2 totals.
   3. High-income countries have invested more heavily in cleaner energy technologies, improving energy efficiency and gradually reducing domestic CO2 emissions over time.
 - Population growth is the dominant driver of emissions in all income groups except upper-middle income. For low-income countries, population growth is practically the only major factor behind their rise in emissions over time.
-- In 2021, low-income countries account for less than 4% of global emissions.
+- In 2021, low-income countries accounted for less than 4% of global emissions.
+![Low-Income Country Emissions](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/8c0405d86e4f53cfbd61ddd23835a647e077843a/Low_income_emissions.png)
 
 ## Recap
 - High-income countries have historically accounted for a majority of worldwide CO2 emissions, but have been overtaken by the upper-middle income countries in this regard over the past decade.
