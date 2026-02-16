@@ -50,7 +50,7 @@ Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
 ![Population and Emissions Data](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/dce9227fbba00dd266a06084e2050c19aed3bac7/Emissions_and_population.png)
 - Russia accounts for 14% of the combined population for the ten nations, yet is responsitble for over 45% of the total emissions. In fact, 4 of the 5 most populous European countries had higher emissions per capita than the global average in 2021, with France being the only exception.
 - Meanwhile, all five of Africa's most populous countries had lower than global average per capita emissions in 2021.
-
+![National Emissions Graph](https://github.com/ArmandoDominguez97/Global-CO2-Emissions-Analysis/blob/71e259102b7927a7222fd1c264015acb741b9e9e/European_and_African_nations.png)
 ## Emissions by National Income Level 
 - As one can expect, wealthier countries account for a significantly higher share of the global CO2 emissions than lower income nations. High-income countries were the larget carbon emitters until 2010, when they were overtaken by the upper-middle-income countries.
 - This recent shift has come as a result of three major developments:
