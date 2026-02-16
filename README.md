@@ -1,5 +1,5 @@
 # Global CO2 Inequality: Findings and Recommendations
-Armando Dominguez, Jiewen Huang, Kevin Elshemy, Hawa Kora
+By Armando Dominguez, Jiewen Huang, Kevin Elshemy, and Hawa Kora
 
 ## Client
 **The United Nations Framework Convention on Climate Change (UNFCCC)**
@@ -85,3 +85,5 @@ https://www.sciencedirect.com/science/article/abs/pii/S0306261923018925
 -Tamburino, Lucia, et al. “An Analysis of Three Decades of Increasing Carbon Emissions: The Weight of the P Factor.” MDPI, Multidisciplinary Digital Publishing Institute, 10 Feb. 2023, www.mdpi.com/2071-1050/15/4/3245?utm_source.
 
 -Three Decades of Increasing Carbon Emissions: The Weight of the P Factor.” MDPI, Multidisciplinary Digital Publishing Institute, 10 Feb. 2023, www.mdpi.com/2071-1050/15/4/3245?utm_source.
+
+[Carbon Emissions Dataset](https://docs.google.com/spreadsheets/d/1Q9QGAIl5h5tpkwzj2zErnlEzK98HmaVn65pLex3eNI0/edit?usp=sharing)
