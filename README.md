@@ -86,6 +86,6 @@ https://www.sciencedirect.com/science/article/abs/pii/S0306261923018925
 
 -Three Decades of Increasing Carbon Emissions: The Weight of the P Factor.” MDPI, Multidisciplinary Digital Publishing Institute, 10 Feb. 2023, www.mdpi.com/2071-1050/15/4/3245?utm_source.
 
-[Raw Dataset](https://docs.google.com/spreadsheets/d/1MIM8Gytj1EYGuGaN39PP51qlUBIs7WYp/edit?usp=sharing&ouid=116145121158282700615&rtpof=true&sd=true)
+[Raw Dataset](https://docs.google.com/spreadsheets/d/1tkJbLiy4KXlt-Gk00nbXUi1GxUbwsr34YCJcABb0ceE/edit?gid=912317984#gid=912317984)
 
 [My Cleaned Dataset](https://docs.google.com/spreadsheets/d/1Q9QGAIl5h5tpkwzj2zErnlEzK98HmaVn65pLex3eNI0/edit?gid=576124120#gid=576124120)
